@@ -395,7 +395,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 373.0, 118.0, 75.0, 25.0 ],
-					"text" : "comment"
+					"text" : "comment",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
