@@ -591,7 +591,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 26.0, 20.0, 603.0, 48.0 ],
-					"text" : "Important MAX Objects"
+					"text" : "Important MAX Objects "
 				}
 
 			}
